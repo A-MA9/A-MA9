@@ -46,26 +46,19 @@
 
 ## 🏆 Featured Projects
 
-### 🧠 [Manan - Mental Health Assessment App](https://github.com/A-MA9/manan)
+### 🧠 [Manan - Mental Health Assessment App](https://github.com/A-MA9/Manan)
 **Tech Stack:** Flutter, Supabase, Python, TensorFlow, FastAPI
 - 🎯 Cross-platform mental health monitoring with multi-modal emotion analysis
 - 🤖 Implemented CNN-LSTM and DistilBERT models for real-time emotion recognition
 - 🔐 Built secure authentication flows and comprehensive user dashboards
 - 📊 Designed REST API using FastAPI to serve ML predictions
 
-### 🏠 [RentEase - Property Rental Platform](https://github.com/A-MA9/rentease)
+### 🏠 [RentEase - Property Rental Platform](https://github.com/A-MA9/RentEase)
 **Tech Stack:** Flutter, FastAPI, SQLite, AWS S3, WebSockets, JWT
 - 📱 Cross-platform mobile app connecting room seekers with property owners
 - 🔒 Secure RESTful APIs with JWT authentication
 - 🌍 Location-based search with 360° room tours
 - 💬 Real-time chat integration using WebSockets
-
-### 🤖 [Hand Gesture Recognition Device](https://github.com/A-MA9/gesture-recognition)
-**Tech Stack:** Raspberry Pi, Python, Flex Sensors, IoT
-- 🤝 IoT-based assistive communication device for gesture-to-speech conversion
-- 📡 Real-time gesture classification with MPU6050 and flex sensors
-- 🗣️ Text-to-speech integration for accessibility
-- 📱 Remote logging via Telegram Bot API
 
 ## 📊 GitHub Analytics
 
