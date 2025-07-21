@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me
 
-🎓 **Final-year Computer Science Engineering student** at JK Lakshmipat University (CGPA: 8.496)  
+🎓 **Final-year Computer Science Engineering student** 
 🚀 **Passionate about** building scalable software solutions and intelligent systems  
 🔬 **Experience in** full-stack mobile/web development, machine learning, and IoT  
 🎯 **Currently exploring** advanced ML techniques and cloud technologies  
