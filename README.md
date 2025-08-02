@@ -1,7 +1,7 @@
-# Hi there! I'm Aman Bharti
+0# Hi there! I'm Aman Bharti
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;ML+Enthusiast;Flutter+Developer;IoT+Innovator;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Data Engineer;Full-Stack+Developer;ML+Enthusiast;Flutter+Developer;IoT+Innovator;Problem+Solver" alt="Typing SVG" />
 </div>
 
 ## About Me
