@@ -1,4 +1,4 @@
-<div style="font-family:'Ubuntu Mono', monospace;">
+<pre>
   
 # Hi there! I'm Aman Bharti
 
@@ -96,7 +96,7 @@
     <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-</div>
+</pre>
 
 ---
 
