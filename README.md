@@ -1,3 +1,4 @@
+<div style="font-family:'Ubuntu Mono', monospace; font-size: 15px;">
 # Hi there! I'm Aman Bharti
 
 <p align="center">
@@ -94,6 +95,7 @@
   <a href="mailto:bhartiaman990@gmail.com">
     <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</div>
 </div>
 
 ---
