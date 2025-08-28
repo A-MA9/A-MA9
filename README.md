@@ -1,4 +1,5 @@
-<div style="font-family:'Ubuntu Mono', monospace; font-size: 15px;">
+<div style="font-family:'Ubuntu Mono', monospace;">
+  
 # Hi there! I'm Aman Bharti
 
 <p align="center">
