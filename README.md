@@ -7,7 +7,7 @@
 </p>
 
 
-## <pre>About Me</pre>
+## About Me
 **Final-year Computer Science Engineering student**  
 **Passionate about** building scalable software solutions and intelligent systems  
 **Experience in** full-stack mobile/web development, machine learning, and IoT  
@@ -18,7 +18,19 @@
 - Looking to collaborate on open-source projects
 - Ask me about Flutter, FastAPI, ML, or IoT
 - Reach me at: [bhartiaman990@gmail.com](mailto:bhartiaman990@gmail.com)
+<pre>
+[Final-year Computer Science Engineering student]
+[Passionate about] building scalable software solutions and intelligent systems
+[Experience in] full-stack mobile/web development, machine learning, and IoT
+[Currently exploring] advanced ML techniques and cloud technologies
 
+Quick Facts
+-----------
+- Currently learning advanced AWS services and system design
+- Looking to collaborate on open-source projects
+- Ask me about Flutter, FastAPI, ML, or IoT
+- Reach me at: bhartiaman990@gmail.com
+</pre>
 ## Tech Stack & Skills
 
 ### Programming Languages
