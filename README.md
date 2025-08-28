@@ -1,7 +1,11 @@
 # Hi there! I'm Aman Bharti
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Data+Engineer;Full-Stack+Developer;ML+Enthusiast;Flutter+Developer;IoT+Innovator;Problem+Solver" alt="Typing SVG" />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=800&color=00FF00&center=true&vCenter=true&width=500&height=60&lines=$+Data+Engineer;$+Full-Stack+Developer;$+ML+Enthusiast;$+Flutter+Developer;$+IoT+Innovator;$+Problem+Solver" alt="Terminal Typing SVG" />
+
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/gifs/terminal.gif" width="400"/>
+  
 </div>
 
 ## About Me
