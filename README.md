@@ -7,7 +7,7 @@
 </p>
 
 
-## About Me
+## <pre>About Me</pre>
 **Final-year Computer Science Engineering student**  
 **Passionate about** building scalable software solutions and intelligent systems  
 **Experience in** full-stack mobile/web development, machine learning, and IoT  
