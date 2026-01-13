@@ -65,7 +65,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=A-MA9&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=A-MA9&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 ## Achievements & Certifications
