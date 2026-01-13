@@ -9,12 +9,12 @@
 
 ## About Me
 **Final-year Computer Science Engineering student**  
-**Passionate about** building scalable software solutions and intelligent systems  
-**Experience in** full-stack mobile/web development, machine learning, and IoT  
-**Currently exploring** advanced ML techniques and cloud technologies  
+**Building** software and **resolving** bugs. 
+**Hands-On Experience** in full-stack mobile/web development, machine learning, and IoT  
+**Currently exploring** DevOps and cloud technologies  
 
 ### Quick Facts
-- Currently learning advanced AWS services and system design
+- Currently learning system design
 - Looking to collaborate on open-source projects
 - Ask me about Flutter, FastAPI, ML, or IoT
 - Reach me at: [bhartiaman990@gmail.com](mailto:bhartiaman990@gmail.com)
@@ -77,10 +77,8 @@
 **GATE 2025 Qualified**
 
 ## Current Focus
-
-- Working on advanced ML projects and system design  
+ 
 - Learning microservices architecture and DevOps practices  
-- Contributing to open-source projects  
 - Preparing for software engineering roles  
 
 ## Let's Connect
